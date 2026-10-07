@@ -1,0 +1,23 @@
+name: Задача
+description: Работа по плану проекта
+labels: []
+body:
+  - type: textarea
+    id: what
+    attributes:
+      label: Что нужно сделать
+    validations:
+      required: true
+  - type: textarea
+    id: done
+    attributes:
+      label: Критерии готовности
+      placeholder: |
+        - [ ] ...
+    validations:
+      required: true
+  - type: input
+    id: yozhka
+    attributes:
+      label: Задача в Ёжке
+      placeholder: HPRPR-12
