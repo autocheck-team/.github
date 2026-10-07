@@ -1,6 +1,7 @@
 name: Баг
 description: Что-то работает не так
 labels: [bug]
+projects: ["autocheck-team/1"]
 body:
   - type: textarea
     id: what

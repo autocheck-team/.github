@@ -1,6 +1,7 @@
 name: Задача
 description: Работа по плану проекта
 labels: []
+projects: ["autocheck-team/1"]
 body:
   - type: textarea
     id: what

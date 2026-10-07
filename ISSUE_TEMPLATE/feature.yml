@@ -1,6 +1,7 @@
 name: Идея
 description: Предложить новую возможность
 labels: [enhancement]
+projects: ["autocheck-team/1"]
 body:
   - type: textarea
     id: problem
